@@ -1,4 +1,6 @@
 # AtliQ-Hotel-Data-Analysis-Project
 
-## **Problem Statement:**
-Atliq Grands, an Indian hotel chain, is struggling with declining revenue due to competition. To address this, they're seeking external expertise to analyze their operations, identify opportunities, and implement innovative strategies to boost customer satisfaction and revenue.
+## **Project Overview:**
+Client: Atliq Grands, a major Indian hotel chain.
+Objective: Analyze hotel booking data to uncover key insights that can drive customer retention and increase revenue.
+
