@@ -40,6 +40,19 @@ The project uses a combination of dimensional and fact tables:
   - Replaced or corrected these anomalies using statistical techniques.
 -Consistency Checks:
   - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
-
+ 
+**3. Data Analysis**
+-Occupancy Rate Analysis:
+  - Calculated room occupancy rates based on booking data.
+  - Compared occupancy rates across different room categories and hotel locations.
+-Revenue Insights:
+  - Analyzed revenue data by room category, booking platform, city etc.
+  - Investigated weekday/weekend impacts on booking revenue, identifying peak and off-peak periods.
+    
+**4. Visualizations and Insights**
+-Booking Trends Visualization:
+  - Used bar charts to compare booking counts across different booking platform.
+-Revenue Distribution:
+  - Created pie charts to illustrate revenue contributions from different booking platform.
 
 
