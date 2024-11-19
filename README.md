@@ -24,13 +24,22 @@ The project uses a combination of dimensional and fact tables:
 - Importing Libraries:
   - Used Pandas for data manipulation and Matplotlib for visualization.
 - Loading Datasets:
-  -  Loaded the fact_bookings.csv dataset using Pandas to begin initial analysis.
+  -  Loaded the datasets using Pandas to begin initial analysis.
   -  Displayed the first few rows to understand the data structure.
 - Initial Data Inspection:
-  - Checked the shape of the dataset to understand the number of rows and columns.
-  - Explored unique categories in columns like room_category to get an overview of available data types.
+  - Explored shape, unique columns, booking status, quick statistics etc. to get an overview of available datasets.
 
-
+**2. Data Cleaning**
+- Handling Missing Values:
+  - Identified missing values across all datasets using isnull().sum().
+  - Filled or removed missing values based on data significance.
+- Data Type Conversion:
+  - Converted date columns from string format to datetime format for accurate analysis.
+- Outlier Detection:
+  - Detected negative values in the no_guests column.
+  - Replaced or corrected these anomalies using statistical techniques.
+-Consistency Checks:
+  - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
 
 
 
