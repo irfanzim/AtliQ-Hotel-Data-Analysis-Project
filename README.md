@@ -2,13 +2,8 @@
 
 ## **Project Overview:**
 
-- **Client:** Atliq Grands, a major Indian hotel chain.
-- **Objective:** Analyze hotel booking data to uncover key insights that can drive customer retention and increase revenue.
-
-## **Problem Statement**
-
-- Atliq Grands is facing stiff competition and declining revenue.
-- The company seeks a data-driven approach to identify key factors impacting performance and make strategic improvements.
+- **Objective:** Address challenges faced by Atliq Grands, a leading Indian hotel chain, including increasing competition and declining revenue.
+- **Goal:** Use data analysis to provide actionable insights to improve customer retention and drive revenue growth.
 
 ## **Datasets Overview**
 The project uses a combination of dimensional and fact tables:
@@ -19,7 +14,7 @@ The project uses a combination of dimensional and fact tables:
 - **fact_aggregated_bookings.csv:** Aggregated booking data with property id, total bookings, capacity etc.
 - **fact_bookings.csv:** Detailed booking transactions with information on guests, room categories, booking dates, revenue etc.
 
-## **Key Steps in the Project**
+## **Highlights of the Project**
 **1. Data Exploration**
 - Importing Libraries:
   - Used Pandas for data manipulation and Matplotlib for visualization.
@@ -33,26 +28,44 @@ The project uses a combination of dimensional and fact tables:
 - Handling Missing Values:
   - Identified missing values across all datasets using isnull().sum().
   - Filled or removed missing values based on data significance.
+- Handling Inconsistencies:
+  - Removed rows where successful_bookings exceeded capacity.
+  - Converted negative values to positive values in the no_guests column.
+- Duplication Check:
+  - Verified that no duplicate rows existed in the dataset.
 - Data Type Conversion:
   - Converted date columns from string format to datetime format for accurate analysis.
 - Outlier Detection:
-  - Detected negative values in the no_guests column.
-  - Replaced or corrected these anomalies using statistical techniques.
+  - Replaced or corrected anomalies in revenue column using statistical techniques.
 -Consistency Checks:
   - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
+
+**3. Merging Datasets**
+- Merged booking data with additional datasets (df_rooms, df_hotels, and df_date) to enhance the analysis scope.
+- Dropped unnecessary columns (date and room_id) after merging.
  
-**3. Data Analysis**
--Occupancy Rate Analysis:
-  - Calculated room occupancy rates based on booking data.
-  - Compared occupancy rates across different room categories and hotel locations.
--Revenue Insights:
-  - Analyzed revenue data by room category, booking platform, city etc.
-  - Investigated weekday/weekend impacts on booking revenue, identifying peak and off-peak periods.
+**3. Exploratory Data Analysis**
+- Occupancy Rates by Room Class:
+  - Identified which room classes performed better in terms of occupancy.
+- City-Wise Performance:
+  - Evaluated city-level occupancy to identify underperforming and high-performing locations.
+- Monthly Analysis:
+  - Analyzed occupancy trends in specific months (e.g., July).
+- Revenue Insights:
+  - Analyzed revenue data by city, property_type etc.
+  - Investigated weekday/weekend impacts on revenue
     
 **4. Visualizations and Insights**
--Booking Trends Visualization:
-  - Used bar charts to compare booking counts across different booking platform.
--Revenue Distribution:
-  - Created pie charts to illustrate revenue contributions from different booking platform.
+- Bar Charts:
+  - Visualized distribution of booking by different platform.
+  - Average hotel bookings during weekday and weekend in differnt cities.
+- Time-Series Plots:
+  - Analyzed revenue trends over months.
+- Pie Chart:
+  - Revenue distribution by booking platform
+- Heatmaps:
+  - Used heatmaps to show average revenue per property and room class.
+  - Used heatmaps to show occupancy distribution across cities and room classes.
+
 
 
