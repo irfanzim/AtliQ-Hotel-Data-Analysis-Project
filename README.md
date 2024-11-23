@@ -65,6 +65,9 @@ The project uses a combination of dimensional and fact tables:
 ![image](https://github.com/user-attachments/assets/585f28cd-cbcb-4563-b3b6-702ee65ee32b)
 - Time-Series Plots:
   - Analyzed revenue trends over months.
+
+![image](https://github.com/user-attachments/assets/782212b6-718e-479e-9aa3-41e8443053c4)
+
 - Pie Chart:
   - Revenue distribution by booking platform
 
