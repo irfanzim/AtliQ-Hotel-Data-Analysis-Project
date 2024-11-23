@@ -67,9 +67,16 @@ The project uses a combination of dimensional and fact tables:
   - Analyzed revenue trends over months.
 - Pie Chart:
   - Revenue distribution by booking platform
+
+ ![image](https://github.com/user-attachments/assets/22e7de17-f466-4cc4-b801-a427ba9a9a0d)
+ 
 - Heatmaps:
   - Used heatmaps to show average revenue per property and room class.
   - Used heatmaps to show occupancy distribution across cities and room classes.
+ 
+![image](https://github.com/user-attachments/assets/7463286a-8ba7-4648-8fc9-d9d5bf26302d)
+
+![image](https://github.com/user-attachments/assets/a1c398dc-2317-47fe-b609-6cd551ee4f55)
 
 ## **Key Insights**
 - Highest occupancy rates observed in Presidential suites (59.28%), followed by Premium rooms (58.03%).
@@ -95,11 +102,8 @@ The project uses a combination of dimensional and fact tables:
 - **Python Libraries:** Proficiency in pandas, and visualization libraries like matplotlib.
 - **Business Analytics:** Applying data insights to real-world problems for strategic recommendations.
 
-## **Visualizations:**
 
-![image](https://github.com/user-attachments/assets/22e7de17-f466-4cc4-b801-a427ba9a9a0d)
-![image](https://github.com/user-attachments/assets/7463286a-8ba7-4648-8fc9-d9d5bf26302d)
-![image](https://github.com/user-attachments/assets/a1c398dc-2317-47fe-b609-6cd551ee4f55)
+
 
 
 
