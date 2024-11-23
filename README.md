@@ -83,13 +83,13 @@ The project uses a combination of dimensional and fact tables:
 - Highlight Presidential suites during high-demand seasons to maximize revenue.
 
 ## **Summary of Skills Demonstrated:**
-- Data Cleaning: Handling inconsistent and duplicate data.
-- Data Integration: Merging multiple datasets into a cohesive structure.
-- EDA: Aggregating, grouping, and analyzing data trends.
-- Feature Engineering: Creating meaningful new columns (OCC%).
-- Statistical Analysis: Calculating means, proportions, and rates.
-- Python Libraries: Proficiency in pandas, and visualization libraries like matplotlib.
-- Business Analytics: Applying data insights to real-world problems for strategic recommendations.
+- **Data Cleaning:** Handling inconsistent and duplicate data.
+- **Data Integration:** Merging multiple datasets into a cohesive structure.
+- **EDA:** Aggregating, grouping, and analyzing data trends.
+- **Feature Engineering:** Creating meaningful new columns (OCC%).
+- **Statistical Analysis:** Calculating means, proportions, and rates.
+- **Python Libraries:** Proficiency in pandas, and visualization libraries like matplotlib.
+- **Business Analytics:** Applying data insights to real-world problems for strategic recommendations.
 
 ## **Visualizations:**
 ![image](https://github.com/user-attachments/assets/afe955f6-bf70-40a7-807e-e549b42a535a)
