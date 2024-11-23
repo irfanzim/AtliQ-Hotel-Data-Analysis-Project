@@ -59,6 +59,7 @@ The project uses a combination of dimensional and fact tables:
 - Bar Charts:
   - Visualized distribution of booking by different platform.
   - Average hotel bookings during weekday and weekend in differnt cities.
+![image](https://github.com/user-attachments/assets/afe955f6-bf70-40a7-807e-e549b42a535a)
 - Time-Series Plots:
   - Analyzed revenue trends over months.
 - Pie Chart:
@@ -92,7 +93,7 @@ The project uses a combination of dimensional and fact tables:
 - **Business Analytics:** Applying data insights to real-world problems for strategic recommendations.
 
 ## **Visualizations:**
-![image](https://github.com/user-attachments/assets/afe955f6-bf70-40a7-807e-e549b42a535a)
+
 ![image](https://github.com/user-attachments/assets/22e7de17-f466-4cc4-b801-a427ba9a9a0d)
 ![image](https://github.com/user-attachments/assets/7463286a-8ba7-4648-8fc9-d9d5bf26302d)
 ![image](https://github.com/user-attachments/assets/a1c398dc-2317-47fe-b609-6cd551ee4f55)
