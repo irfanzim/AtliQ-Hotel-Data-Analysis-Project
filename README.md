@@ -57,8 +57,12 @@ The project uses a combination of dimensional and fact tables:
 **3. Exploratory Data Analysis**
 - Occupancy Rates by Room Class:
   - Identified which room classes performed better in terms of occupancy.
+![image](https://github.com/user-attachments/assets/d3cf967c-8ffe-4242-ae12-7460123716bf)
+
 - City-Wise Performance:
   - Evaluated city-level occupancy to identify underperforming and high-performing locations.
+![image](https://github.com/user-attachments/assets/08b06007-8fde-4804-93df-0631c810f9df)
+
 - Monthly Analysis:
   - Analyzed occupancy trends in specific months (e.g., July).
 - Revenue Insights:
