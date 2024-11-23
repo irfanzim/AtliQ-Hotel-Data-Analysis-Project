@@ -37,7 +37,7 @@ The project uses a combination of dimensional and fact tables:
   - Converted date columns from string format to datetime format for accurate analysis.
 - Outlier Detection:
   - Replaced or corrected anomalies in revenue column using statistical techniques.
--Consistency Checks:
+- Consistency Checks:
   - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
 
 **3. Merging Datasets**
