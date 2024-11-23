@@ -35,6 +35,8 @@ The project uses a combination of dimensional and fact tables:
   - Verified that no duplicate rows existed in the dataset.
 - Data Type Conversion:
   - Converted date columns from string format to datetime format for accurate analysis.
+ ![image](https://github.com/user-attachments/assets/2f37c229-7e16-4da5-9d1b-2874f7a00b6a)
+
 - Outlier Detection:
   - Replaced or corrected anomalies in revenue column using statistical techniques.
 - Consistency Checks:
