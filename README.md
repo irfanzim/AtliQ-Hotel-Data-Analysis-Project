@@ -1,4 +1,4 @@
-# AtliQ-Hotel-Data-Analysis-Project
+# AtliQ-Hotel-Data-Analysis-Project (Python Project)
 
 ## **Project Overview:**
 
