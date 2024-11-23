@@ -61,6 +61,8 @@ The project uses a combination of dimensional and fact tables:
   - Analyzed occupancy trends in specific months (e.g., July).
 - Revenue Insights:
   - Analyzed revenue data by city, property_type etc.
+![image](https://github.com/user-attachments/assets/4eebedc5-1d4f-482c-bfd2-e5438313d677)
+
   - Investigated weekday/weekend impacts on revenue
     
 **4. Visualizations and Insights**
