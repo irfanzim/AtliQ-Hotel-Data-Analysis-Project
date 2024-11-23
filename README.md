@@ -28,6 +28,8 @@ The project uses a combination of dimensional and fact tables:
 - Handling Missing Values:
   - Identified missing values across all datasets using isnull().sum().
   - Filled or removed missing values based on data significance.
+![image](https://github.com/user-attachments/assets/3dbf8856-75f1-45e0-979d-9f02177b21a0)
+
 - Handling Inconsistencies:
   - Removed rows where successful_bookings exceeded capacity.
   - Converted negative values to positive values in the no_guests column.
