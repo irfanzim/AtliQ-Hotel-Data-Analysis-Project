@@ -72,9 +72,9 @@ The project uses a combination of dimensional and fact tables:
 - Delhi had the highest occupancy rate (61.51%), while Bangalore lagged behind (56.33%).
 - Weekend occupancy was significantly higher (73.96%) compared to weekdays (51.81%).
 - Revenue decreased in Jun 22, followed by an upward trend in July 22
-- Atliq Exotica contributed highest (320279488) in terms of revenue, while Atliq Seasons was the last (66125495).
+- Atliq Exotica contributed the highest revenue at 320,279,488, while Atliq Seasons contributed the least at 66,125,495.
 - MakeMyTrip generates the second-largest share of revenue, accounting for 19.9%.
-- Atliq Exoticaconsistently generates the highest average revenue across all room categories, with the Presidential room category being the most lucrative.
+- Atliq Exotica consistently generated the highest average revenue across all room categories, with the Presidential room category being the most lucrative.
 
 ## **Key Recommendations**
 - Offer dynamic pricing based on demand patterns observed in weekends.
