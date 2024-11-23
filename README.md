@@ -31,6 +31,8 @@ The project uses a combination of dimensional and fact tables:
 - Handling Inconsistencies:
   - Removed rows where successful_bookings exceeded capacity.
   - Converted negative values to positive values in the no_guests column.
+![image](https://github.com/user-attachments/assets/2f4353f3-2f54-47f2-b1b2-6f809add0333)
+
 - Duplication Check:
   - Verified that no duplicate rows existed in the dataset.
 - Data Type Conversion:
