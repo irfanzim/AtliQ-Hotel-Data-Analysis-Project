@@ -48,6 +48,8 @@ The project uses a combination of dimensional and fact tables:
 
 **3. Merging Datasets**
 - Merged booking data with additional datasets (df_rooms, df_hotels, and df_date) to enhance the analysis scope.
+![image](https://github.com/user-attachments/assets/20c519ff-e2fd-4934-9658-99309393a71a)
+
 - Dropped unnecessary columns (date and room_id) after merging.
  
 **3. Exploratory Data Analysis**
