@@ -45,7 +45,8 @@ The project uses a combination of dimensional and fact tables:
 
 - Outlier Detection:
   - Replaced or corrected anomalies in revenue column using statistical techniques.
-![image](https://github.com/user-attachments/assets/5dec0ece-fa25-46c5-a0e9-6c63c5cc23eb)
+![image](https://github.com/user-attachments/assets/843c8496-5b89-43b4-9f4f-b22ea6c8dd63)
+
 
 - Consistency Checks:
   - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
