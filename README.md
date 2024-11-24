@@ -47,7 +47,7 @@ The project uses a combination of dimensional and fact tables:
   - Removed or corrected anomalies in revenue column using statistical techniques.
 
 - Consistency Checks:
-  - Verified consistency across datasets by checking unique IDs (e.g., hotel_id, room_id).
+  - Verified consistency across datasets by checking unique IDs (e.g., booking id).
 
 **3. Merging Datasets**
 - Merged booking data with additional datasets (df_rooms, df_hotels, and df_date) to enhance the analysis scope.
